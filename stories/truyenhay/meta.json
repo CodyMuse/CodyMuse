@@ -1,0 +1,10 @@
+{
+  "title": "Truyện Hay",
+  "slug": "truyenhay",
+  "author": "Demo Author",
+  "description": "Truyện demo để test fetch raw từ GitHub.",
+  "chapters": [
+    { "no": 1, "title": "Phần 1", "file": "001.md" },
+    { "no": 2, "title": "Phần 2", "file": "002.md" }
+  ]
+}
