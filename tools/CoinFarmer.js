@@ -3,6 +3,8 @@
 //  Paste vào Console (F12) — hiện UI farm thủ công
 // =============================================
 
+
+// manual doesn't work
 (function CoinFarmerUI() {
 
   // Xóa UI cũ nếu có
